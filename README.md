@@ -9,6 +9,8 @@
 
 🌱 Focused on building data-driven solutions and ML pipelines for real-world business problems
 
+ 📫 abhignaalagoni@gmail.com
+
 
 ![Abhigna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhigna348&show_icons=true&theme=radical)
 
